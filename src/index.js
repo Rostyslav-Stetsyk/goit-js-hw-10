@@ -8,7 +8,6 @@ const refs = {
     breedSelect: document.querySelector('.breed-select'),
     catInfo: document.querySelector('.cat-info'),
     loader: document.querySelector('.loader'),
-    err: document.querySelector('.error')
 };
 
 refs.loader.classList.add('visible')

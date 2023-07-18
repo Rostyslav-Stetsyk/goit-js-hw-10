@@ -70,14 +70,6 @@
     display: block;
 }
 
-.error {
-    display: none;
-}
-
-.error.visible {
-    display: block;
-}
-
 .text-accent {
     font-weight: bold;
 }
